@@ -7,7 +7,7 @@ from MainWindow import MainWindow
 
     
 app = QApplication(sys.argv)
-QApplication.setApplicationName("Chamodh's Browser")
+QApplication.setApplicationName("ChaBrow")
 window = MainWindow()
 app.exec_()
 
